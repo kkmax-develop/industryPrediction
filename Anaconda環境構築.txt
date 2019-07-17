@@ -1,0 +1,15 @@
+・pip install scikit-learn
+（結果）：Installing collected packages: joblib, numpy, scipy, scikit-learn
+→scikit-learnだけではなくnumpy, scipyといった必須モジュールも一緒に入れてくれる
+
+・pip install seaborn
+（結果）：Installing collected packages: six, python-dateutil, pytz, pandas, pyparsing, cycler, kiwisolver, matplotlib, seaborn
+Successfully installed cycler-0.10.0 kiwisolver-1.1.0 matplotlib-3.1.1 pandas-0.24.2 pyparsing-2.4.0 python-dateutil-2.8.0 pytz-2019.1 seaborn-0.9.0 six-1.12.0
+→seabornだけではなくmatplotlib、pandasといったデータ可視化や操作に必要なものを一緒に入れてくれる
+
+・pip install japanize-matplotlib
+参考：https://qiita.com/uehara1414/items/6286590d2e1ffbf68f6c
+
+→matplotlibを日本語対応させる場合、まじめにやるとフォントのDLや設定ファイルを弄らないといけないがこれをインストールすると簡単に日本語出来る素晴らしいパッケージ！
+
+・
