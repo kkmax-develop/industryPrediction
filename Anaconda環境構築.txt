@@ -15,3 +15,6 @@ Successfully installed cycler-0.10.0 kiwisolver-1.1.0 matplotlib-3.1.1 pandas-0.
 ・pip install lightgbm
 ・pip install wordcloud
 ・pip install mecab-python-windows
+
+・mecab
+https://qiita.com/bwtakacy/items/191aae9376dce79a385c
