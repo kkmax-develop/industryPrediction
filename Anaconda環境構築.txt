@@ -12,4 +12,6 @@ Successfully installed cycler-0.10.0 kiwisolver-1.1.0 matplotlib-3.1.1 pandas-0.
 
 →matplotlibを日本語対応させる場合、まじめにやるとフォントのDLや設定ファイルを弄らないといけないがこれをインストールすると簡単に日本語出来る素晴らしいパッケージ！
 
-・
+・pip install lightgbm
+・pip install wordcloud
+・pip install mecab-python-windows
