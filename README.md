@@ -1,2 +1,0 @@
-# industryPrediction
-AIコンテスト2019用リポジトリー
